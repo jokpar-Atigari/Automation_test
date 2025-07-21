@@ -5,8 +5,8 @@ The tests are designed to automate UI interactions and validate the functionalit
 
 ##  Features
 
-End-to-End (E2E) testing with Cypress
-Headless and GUI execution options
+- End-to-End (E2E) testing with Cypress
+- Headless and GUI execution options
 Easy setup via npm
 Modular folder structure for scalability
 
